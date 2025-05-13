@@ -22,6 +22,7 @@ This bot supports multiple languages for responses. Set your preferred language 
 - **id** – Indonesian  
 - **ur** – Urdu  
 - **tr** – Turkish  
+- **ht** – creole  
 - **fr** – French  
 - **ru** – Russian  
 
